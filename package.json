@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/akura-co/hkd-bot",
   "dependencies": {
-    "underscore": "1.12.1",
+    "underscore": "1.13.8",
     "superagent": "6.1.0"
   }
 }
